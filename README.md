@@ -44,7 +44,7 @@ Portfólio profissional de: **Leandro Fernandes dos Santos**, desenvolvido para 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/portfolio.git
+   git clone https://github.com/LeandroFernandes12/Portifolio-pessoal
    ```
 2. Abra o arquivo `index.html` no navegador
 
@@ -64,7 +64,7 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 ---
 
-Feito com ❤️ por **João... (seu nome) Contatos** 👨‍💻
+Feito com ❤️ por **Leandro Fernandes dos Santos Contatos** 👨‍💻
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
