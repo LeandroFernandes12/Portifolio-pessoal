@@ -4,7 +4,7 @@
 
 ## 🌟 Sobre o Projeto
 
-Portfólio profissional de: **João... (seu nome)**, desenvolvido para mostrar meus projetos e habilidades como Desenvolvedor Full-stack. Design moderno, responsivo e com modo claro/escuro!
+Portfólio profissional de: **Leandro Fernandes dos Santos**, desenvolvido para mostrar meus projetos e habilidades como Desenvolvedor Full-stack. Design moderno, responsivo e com modo claro/escuro!
 
 ✨ **Destaques**:
 - 🎨 Design elegante e minimalista
